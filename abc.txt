@@ -1,0 +1,9 @@
+Hey there, 
+
+You can now successfully clone a repository from github to local machine bring some modifications to the file then commit those changes and push it to github again.
+
+Also, you can create a repository in your local machine and then push it to the github.
+
+Finally, you did it.
+
+congratulations.
